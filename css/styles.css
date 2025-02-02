@@ -1,0 +1,95 @@
+body{
+  font-family: "Roboto", sans-serif;
+   font-weight:regular;
+  font-size: 16px;
+  line-height: calc(50px -2) / 2px;;
+  letter-spacing: 2%;
+  color: #434455;
+  background-color: #ffffff;
+}
+a {
+    font-family: "Roboto";
+    font-weight: regular;
+    font-size: 12px;
+    line-height: calc(34px-2)/2px;
+    letter-spacing: 4%;
+    text-decoration: Underline;
+}
+.header-link:hover,
+.header-link:focus,
+.head-email:hover,
+.head-email:focus,
+.head-tel:focus,
+.head-tel:hover{
+    color:#404BBF;
+
+}
+.header-link,
+.head-email,
+.head-tel{
+    color:#2E2F42;
+}
+.head-logo,
+.foot-logo {
+    Font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.head-logo .logo-part{
+    color: #2e2f42;
+}
+.sect-title-butt{
+    background-color: #2E2F42;
+}
+.title{
+    color: #FFFFFF;
+    text-align: center;
+}
+.butt-order{
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+.foot{
+    background-color: #2E2F42;
+}
+.foot-logo .logo-part{
+    color:#F4F4FD;
+}
+.title{
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 56px;
+    letter-spacing: 2%;
+    line-height:calc(124px-4)/2px;
+
+}
+.merit-small-title,
+.our-theme-list-title,
+.portfolio-small-title{
+    font-family: "Roboto";
+    font-weight: Medium;
+    font-size:20px;
+    letter-spacing: 2%;
+}
+h2{
+    font-family: "Roboto";
+        font-weight: Bold;
+        font-size: 36px;
+        letter-spacing: 2%;
+}
+.butt-order{
+    font-family: "Roboto";
+    font-weight: medium;
+    font-size: 16px;
+    line-height: calc(50px-2)/2px;
+    letter-spacing: 4%;
+    text-decoration: Underline;
+}
+.foot-p{
+    color:#E7E9FC;
+}
